@@ -1,13 +1,1 @@
-My first read me
-
-
-
-
-
-
-
-
-exit
-
-
-
+My first readme
