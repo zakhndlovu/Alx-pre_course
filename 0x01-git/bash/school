@@ -1,6 +1,2 @@
-
-
-clear
-cd..
-cd ..
-exit
+!/bin/bash
+echo "School"
